@@ -1,7 +1,7 @@
 <H3> Name: SREEVALSAN V</H3>
 <H3>Register No: 212223240158</H3>
 <H3> Experiment 1</H3>
-<H3>DATE:27-02-2024</H3>
+<H3>DATE:21-02-2024</H3>
 <H1 ALIGN=CENTER> Implementation of Bayesian Networks</H1>
 
 ## Aim :
